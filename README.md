@@ -1,9 +1,8 @@
-# 👋 ¡Hola! Soy Juan Sebastian Sanchez
+# 👋 ¡Hola! Soy Julian David Cifuentes gonzalez
 
 ### ¡Bienvenido a mi perfil de GitHub! 🚀
 
-
-Soy un apasionado desarrollador de software con experiencia en frontend y backend. Me encanta crear soluciones eficientes y aprender nuevas tecnologías. 😊
+Soy un apasionado desarrollador de software con experiencia en frontend, backend y Bases de datos. Me encanta crear soluciones eficientes y aprender nuevas tecnologías. 😊
 
 ## 🔧 Tecnologías y Herramientas
 
@@ -23,12 +22,11 @@ Soy un apasionado desarrollador de software con experiencia en frontend y backen
 **Herramientas:**
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white)
-
-
+  ![VS Code](https://img.shields.io/azure-devops/coverage/:organization/:project/:definitionId)
 
 ## 🤝 ¡Conectemos!
 
 ¡Estoy siempre abierto a colaborar en proyectos interesantes y a conectarme con otros profesionales! No dudes en enviarme un mensaje.
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:sanchezjuansebastian51@gmail.com@gmail.com) <!-- Reemplaza con tu dirección de email -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/juan-sebastian-sanchez-83706618a) <!-- Reemplaza con tu URL de LinkedIn -->
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:sanchezjuansebastian51@gmail.com@gmail.com) <!-- jdcifuentes97@gmail.com -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/juan-sebastian-sanchez-83706618a) <!-- www.linkedin.com/in/julian-cifuentes-g -->
